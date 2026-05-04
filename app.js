@@ -22,9 +22,10 @@ const abMovie = {
 
 const combinedtext =
   abMovie.movieName +
-  " which is a" +
+  " which is a " +
   abMovie.genre +
   " movie, is available on " +
-  abMovie.streamingPlatforms[0];
+  abMovie.streamingPlatforms[0] +
+  ".";
 //   abMovie.streamingPlatforms.join(" ");
 console.log(combinedtext);
