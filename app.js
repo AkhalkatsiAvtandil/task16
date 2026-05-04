@@ -53,4 +53,4 @@ const OfThree = [
     },
   },
 ];
-console.log(arrayOfThree);
+console.log(OfThree);
