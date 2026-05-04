@@ -28,4 +28,35 @@ const combinedtext =
   abMovie.streamingPlatforms[0] +
   ".";
 //   abMovie.streamingPlatforms.join(" ");
-console.log(combinedtext);
+// console.log(combinedtext);
+
+// array
+
+const bigthree=[
+  good1:{
+11
+  },
+]
+const OfThree = [
+  // test:{არ ვიცი რატომ მაგრამ ამ შემთხვევაში ფროფერთის მერე ორწერტილს რომ ვსვავ ფრითიერი მასწორებინებს
+  // }
+  {
+    bestooFFantasy: {
+      title: "the lord of the rings",
+      author: "J.R.R Tolkien",
+      yearPublished: 2000,
+    },
+    bestooFAction: {
+      title: "the lord of the rings",
+      author: "Probert Rodart",
+      yearPublished: 1998,
+    },
+    bestooFDetective: {
+      title: "True Detective",
+      author: "Nic Pizzolatto",
+      yearPublished: 2014,
+    },
+  },
+ 
+];
+console.log(arrayOfThree);
