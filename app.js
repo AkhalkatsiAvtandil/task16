@@ -28,7 +28,7 @@ const combinedtext =
   abMovie.streamingPlatforms[0] +
   ".";
 //   abMovie.streamingPlatforms.join(" ");
-// console.log(combinedtext);
+console.log(combinedtext);
 
 // array
 
