@@ -32,11 +32,6 @@ const combinedtext =
 
 // array
 
-const bigthree=[
-  good1:{
-11
-  },
-]
 const OfThree = [
   // test:{არ ვიცი რატომ მაგრამ ამ შემთხვევაში ფროფერთის მერე ორწერტილს რომ ვსვავ ფრითიერი მასწორებინებს
   // }
@@ -57,6 +52,5 @@ const OfThree = [
       yearPublished: 2014,
     },
   },
- 
 ];
 console.log(arrayOfThree);
