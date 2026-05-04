@@ -20,7 +20,7 @@ const abMovie = {
   ],
 };
 
-const combinedtext =
+const combinedText =
   abMovie.movieName +
   " which is a " +
   abMovie.genre +
@@ -28,7 +28,7 @@ const combinedtext =
   abMovie.streamingPlatforms[0] +
   ".";
 //   abMovie.streamingPlatforms.join(" ");
-console.log(combinedtext);
+console.log(combinedText);
 
 // array
 
