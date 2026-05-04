@@ -32,7 +32,7 @@ const combinedtext =
 
 // array
 
-const OfThree = [
+const bestOfThree = [
   // test:{არ ვიცი რატომ მაგრამ ამ შემთხვევაში ფროფერთის მერე ორწერტილს რომ ვსვავ ფრითიერი მასწორებინებს
   // }
   {
@@ -53,4 +53,4 @@ const OfThree = [
     },
   },
 ];
-console.log(OfThree);
+console.log(bestOfThree);
