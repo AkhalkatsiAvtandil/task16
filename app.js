@@ -7,3 +7,24 @@ console.log(myArraysum);
 
 const myArrayarithmeticmean = myArraysum / myArray.length;
 console.log(myArrayarithmeticmean);
+
+// objects
+const abMovie = {
+  movieName: "MATRIX",
+  genre: "fantasy",
+  streamingPlatforms: [
+    "ge.movies",
+    "mykadri.com",
+    "adjaranet.to",
+    "hdtodayz.to",
+  ],
+};
+
+const combinedtext =
+  abMovie.movieName +
+  " which is a" +
+  abMovie.genre +
+  " movie, is available on " +
+  abMovie.streamingPlatforms[0];
+//   abMovie.streamingPlatforms.join(" ");
+console.log(combinedtext);
